@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "title": "Estudar",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "Vuex",
+      "completed": false,
+      "id": 2
+    }
+  ]
+}
